@@ -1,6 +1,6 @@
 # Data-Warehouse-Design
 Real-time Data Warehouse using the following technologies: 
-
+![125452701-2717d438-c2e5-43f9-94c9-aaa804774699](https://github.com/user-attachments/assets/b43b0c41-c09d-4c1d-a54f-ef52b6bd44c2)
 
 
 
