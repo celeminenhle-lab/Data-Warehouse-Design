@@ -1,0 +1,9 @@
+.idea
+client-image/jars
+data
+ckp
+.bsp
+bak
+tmp.sql
+project
+target
